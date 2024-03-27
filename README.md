@@ -12,8 +12,8 @@ My name is Abdelrahman Saleh, and I am a PhD student at Ankara Uni.
 
 ### 🌐 My Open-source Projects
 - [EarthStat](https://github.com/AbdelrahmanAmr3/earthstat) 🌍 - Tool to generate statistical datasets from Remote Sensing data for spatial units.
-- AgERA5GeoStat - Create Statistical Information datasets For ROI by Download, Aggregate AgERA5.  
-- RlCropWater 💧 - RL Environment for Scheduling Irrigation.
+- [AgERA5GeoStat](https://github.com/AbdelrahmanAmr3/agera5geostat) - Create Statistical Information datasets For ROI by Download, Aggregate AgERA5.  
+- [RlCropWater](https://github.com/AbdelrahmanAmr3/rlcropwater) 💧 - RL Environment for Scheduling Irrigation.
 - ETo-Calculator 🌱 - Calculate ETo using different methods.
 
 
