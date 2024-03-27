@@ -36,7 +36,7 @@ My name is Abdelrahman Saleh, and I am a PhD student at Ankara Uni.
 | Remote Sensing Py libraries| Xarray, Rioxarray, Rasterio|
 | Touch Typing          | Avg. 120 WPM (EN) [Profile](https://monkeytype.com/profile/AbdelrahmanAmr) |
 | Geospatial Analysis   | ArcGIS, QGIS                                          |
-| Crop Modeling         | Decision Support System for Agrotechnology Transfer (DSSAT) |
+| Crop Modeling         | DSSAT |
 | Web Development       | HTML, CSS, WordPress                                  |
 
 ### 👯 Let's Collaborate!
