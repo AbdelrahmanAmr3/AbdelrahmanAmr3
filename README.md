@@ -31,7 +31,7 @@ My name is Abdelrahman Saleh, and I am a PhD student at Ankara Uni.
 | Category              | Skills                                                |
 |-----------------------|-------------------------------------------------------|
 | Programming Languages | Python (Advanced), JavaScript for GEE, C++ (Beginner)|
-| Data Analysis & Data Visualization | Python Libraries: NumPy, Pandas, Seaborn, Matplotlib|
+| Data Analysis & Data Visualization | NumPy, Pandas, Seaborn, Matplotlib|
 | Machine Learning & Deep Learning | TensorFlow, Pytorch, Scikit Learn, OpenCV                      |
 | Remote Sensing Py libraries| Xarray, Rioxarray, Rasterio|
 | Touch Typing          | Avg. 120 WPM (EN) [Profile](https://monkeytype.com/profile/AbdelrahmanAmr) |
