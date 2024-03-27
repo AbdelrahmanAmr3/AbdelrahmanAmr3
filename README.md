@@ -25,7 +25,7 @@ My name is Abdelrahman Saleh, and I am a PhD student at Ankara Uni.
 
 ### 🏆 Hackathon Awards
 - 🥈 [WaPOR Hackathon 2023](https://youtu.be/w2UuwofAUgk), IHE Delft.
-- 🥉 Genhack 3- Generative Modelling Challenge 2024, Ecole polytechnique.
+- 🥉 [Genhack 3- Generative Modelling Challenge 2024](https://github.com/generative-hackathon/Genhack3), Ecole polytechnique.
 
 ### 💻 My Skills
 | Category              | Skills                                                |
