@@ -4,7 +4,7 @@ My name is Abdelrahman Saleh, and I am a PhD student at Ankara Uni.
 
 ### 🔍 Interests
 - Machine Learning / Deep Learning
-- Remote Sensing Application in Agriculture
+- Remote Sensing Applications in Agriculture
 - Climate Science / Earth Observation
 
 ### 🚀 Current Projects
