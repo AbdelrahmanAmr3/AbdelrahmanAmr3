@@ -39,5 +39,5 @@ My name is Abdelrahman Saleh, and I am a PhD student at Ankara Uni.
 | Crop Modeling         | DSSAT |
 | Web Development       | HTML, CSS, WordPress                                  |
 
-### 👯 Let's Collaborate!
+### 💪🏻 power in collaboration!
 Feel free to reach out to me via [email](mailto:abdulrahman.amr.ali@gmail.com) for collaboration opportunities or inquiries.
