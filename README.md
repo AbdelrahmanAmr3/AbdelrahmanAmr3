@@ -15,7 +15,7 @@ Can you break my touch typing records 🤔 My average ⚡️ is [120 WPM (EN)](h
 
 ### 🌐 My Open-source Projects
 - [EarthStat](https://github.com/AbdelrahmanAmr3/earthstat) 🌍 - Tool to generate statistical datasets from Remote Sensing data for spatial units.
-- [AgERA5GeoStat](https://github.com/AbdelrahmanAmr3/agera5geostat) - Create Statistical Information datasets For ROI by Download, Aggregate AgERA5.  
+- [AgERA5GeoStat](https://github.com/AbdelrahmanAmr3/agera5geostat) 📊- Create Statistical Information datasets For ROI by Download, Aggregate AgERA5.  
 - [RLCropWater](https://github.com/AbdelrahmanAmr3/rlcropwater) 💧 - RL Environment for Scheduling Irrigation.
 - ETo-Calculator 🌱 - Calculate ETo according to Available Meteorological Data.
 
