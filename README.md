@@ -2,6 +2,9 @@
 
 My name is Abdelrahman Saleh, and I am a PhD student at Ankara Uni.
 
+### 💻 Challange Yourself:
+Can you break my touch typing records 🤔 My average speed is [120 WPM (EN)](https://monkeytype.com/profile/AbdelrahmanAmr)
+
 ### 🔍 Interests
 - Machine Learning / Deep Learning
 - Remote Sensing Applications in Agriculture
@@ -33,8 +36,7 @@ My name is Abdelrahman Saleh, and I am a PhD student at Ankara Uni.
 | Programming Languages | Python (Advanced), JavaScript for GEE, C++ (Beginner)|
 | Data Analysis & Data Visualization | NumPy, Pandas, Seaborn, Matplotlib|
 | Machine Learning & Deep Learning | TensorFlow, Pytorch, Scikit Learn, OpenCV                      |
-| Remote Sensing Py libraries| Xarray, Rioxarray, Rasterio|
-| Touch Typing          | Avg. 120 WPM (EN) [Profile](https://monkeytype.com/profile/AbdelrahmanAmr) |
+| Remote Sensing libraries| Xarray, Rasterio|
 | Geospatial Analysis   | ArcGIS, QGIS                                          |
 | Crop Modeling         | DSSAT |
 | Web Development       | HTML, CSS, WordPress                                  |
