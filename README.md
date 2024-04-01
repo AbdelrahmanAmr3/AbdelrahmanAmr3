@@ -24,7 +24,7 @@ Can you break my touch typing records 🤔 My average ⚡️ is [120 WPM (EN)](h
 - **Deep Neural Network for Estimating GPP in Bolivia:** Utilized regional meteorological variables.
 - **Deep Learning for Sustainable Water Management:** Estimating reference crop evapotranspiration in sub-humid climatic conditions.
 ### 📚 Currently Learning
-- Google Earth Engine, and a lot of stuff 
+- Google Earth Engine and a lot of stuff 
 
 ### 🏆 Hackathon Awards
 - 🥈 [WaPOR Hackathon 2023](https://youtu.be/w2UuwofAUgk), IHE Delft.
