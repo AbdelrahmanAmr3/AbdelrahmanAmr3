@@ -3,7 +3,7 @@
 My name is Abdelrahman Saleh, and I am a PhD student at Ankara Uni.
 
 ### 💻 Challange Yourself:
-Can you break my touch typing records 🤔 My average speed is [120 WPM (EN)](https://monkeytype.com/profile/AbdelrahmanAmr)
+Can you break my touch typing records 🤔 My average ⚡️ is [120 WPM (EN)](https://monkeytype.com/profile/AbdelrahmanAmr)
 
 ### 🔍 Interests
 - Machine Learning / Deep Learning
@@ -24,7 +24,7 @@ Can you break my touch typing records 🤔 My average speed is [120 WPM (EN)](ht
 - **Deep Neural Network for Estimating GPP in Bolivia:** Utilized regional meteorological variables.
 - **Deep Learning for Sustainable Water Management:** Estimating reference crop evapotranspiration in sub-humid climatic conditions.
 ### 📚 Currently Learning
-- Google Earth Engine
+- Google Earth Engine, and a lot of stuff 
 
 ### 🏆 Hackathon Awards
 - 🥈 [WaPOR Hackathon 2023](https://youtu.be/w2UuwofAUgk), IHE Delft.
