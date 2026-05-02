@@ -1,6 +1,6 @@
 ## 👋 Hi there!
 
-My name is Abdelrahman Saleh. I'm Intersted domains are ML/DL, Remote Sensing applicatoins in agriculture, climate science and crop simulation.
+My name is Abdelrahman Saleh. My areas of interest are machine learning/deep learning, remote sensing applications in agriculture, climate science, and crop simulation.
 
 ### 💻 Challange Yourself:
 Can you break my touch typing records 🤔 My average ⚡️ is [120 WPM (EN)](https://monkeytype.com/profile/AbdelrahmanAmr)
