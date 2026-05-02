@@ -1,6 +1,6 @@
 ## 👋 Hi there!
 
-My name is Abdelrahman Saleh, and I am a PhD student at Ankara Uni.
+My name is Abdelrahman Saleh.
 
 ### 💻 Challange Yourself:
 Can you break my touch typing records 🤔 My average ⚡️ is [120 WPM (EN)](https://monkeytype.com/profile/AbdelrahmanAmr)
