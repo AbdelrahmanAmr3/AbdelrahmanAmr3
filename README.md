@@ -7,7 +7,7 @@ Can you break my touch typing records 🤔 My average ⚡️ is [120 WPM (EN)](h
 
 ### 🌐 My Open-source Projects
 - [EarthStat](https://github.com/AbdelrahmanAmr3/earthstat) 🌍 - A Python geospatial toolkit for transforming raster, remote-sensing, and climate data into analysis-ready statistical datasets for spatial units, with automated preprocessing, compatibility checks, aggregation workflows, parallel CPU/GPU support, and outputs ready for training machine learning and deep learning models.
-- [EarthSpectra](https://github.com/AbdelrahmanAmr3/earthspectra) 🛰️ - A Python package for remote sensing data analysis of multispectral and hyperspectral imagery, providing data loaders for different sensors, spectral analysis utilities, visualization tools, band conversions, and multi-sensor Earth observation workflows.
+- [EarthSpectra](https://github.com/AbdelrahmanAmr3/earthspectra) 🛰️🌈 - A Python package for remote sensing data analysis of multispectral and hyperspectral imagery, providing data loaders for different sensors, spectral analysis utilities, visualization tools, band conversions, and multi-sensor Earth observation workflows.
 
 ### 🏆 Hackathon Awards
 - 🥈 [WaPOR Hackathon 2023](https://youtu.be/w2UuwofAUgk), IHE Delft.
